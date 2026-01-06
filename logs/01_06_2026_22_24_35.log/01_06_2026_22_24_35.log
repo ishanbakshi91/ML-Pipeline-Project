@@ -1,0 +1,12 @@
+[ 2026-01-06 22:25:07,449 ] 24 root - INFO - Data Ingestion Started
+[ 2026-01-06 22:25:07,449 ] 26 root - INFO - Data Reading using Pandas library from local system
+[ 2026-01-06 22:25:07,747 ] 28 root - INFO - Data Reading Completed
+[ 2026-01-06 22:25:07,930 ] 32 root - INFO - Data Splitted into train and test
+[ 2026-01-06 22:25:08,478 ] 39 root - INFO - Data Ingestion Completed
+[ 2026-01-06 22:25:08,790 ] 91 root - INFO - Outliers capped on our train data
+[ 2026-01-06 22:25:08,829 ] 97 root - INFO - Outliers capped on our test data
+[ 2026-01-06 22:25:08,829 ] 31 root - INFO -  Data Transformation Started
+[ 2026-01-06 22:25:08,829 ] 104 root - INFO - Splitting train data into dependent and independent features
+[ 2026-01-06 22:25:08,914 ] 108 root - INFO - Splitting test data into dependent and independent features
+[ 2026-01-06 22:25:09,023 ] 28 root - INFO - Splitting our data into dependent and independent features
+[ 2026-01-06 22:26:17,453 ] 80 root - INFO - Best Model found, Model Name is Random Forest, accuracy Score: 0.7852898996107355
